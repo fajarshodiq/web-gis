@@ -130,7 +130,7 @@
                         <div class="container my-auto">
                             <div class="copyright text-center my-auto">
                                 <span>Copyright &copy; <?=$appname;?> 2024</span>
-                                Made with <span style="color: #e25555;">&hearts;</span> in Lampung
+                                || Fajar Shodiq
                             </div>
                         </div>
                     </footer>
